@@ -1,6 +1,6 @@
 ---
 author: David G. Moore, Jr,
-author_email: justin@justinwritescode.com
+author_email: david@dgmjr.io
 title: README.md
 modified: 2022-11-19-04:04:44
 created: 2022-11-10-09:07:36
